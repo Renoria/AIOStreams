@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Viren070/AIOStreams/refs/heads/main/packages/frontend/public/assets/logo.png" /></p>
 <h1 align="center" id="title">AIOStreams</h1>
 
-## Table of Contents
+## Table of Contents 🚀
 
 - [Description](#description)
 - [FAQ](#faq)
